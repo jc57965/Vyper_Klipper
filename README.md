@@ -1,2 +1,4 @@
-# Vyper_Klipper
-Klipper config for my Anycubic Vyper using KIAUH with Fluidd
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
+
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
